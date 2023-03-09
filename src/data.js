@@ -19,7 +19,7 @@ export const personal_data = {
   skills: [
     {
       title: "Frontend",
-      text: "ReactJS, Redux, ContextAPI, HTML, CSS, NPM, BootStrap, MaterialUI, JQuery, AJAX, SEO, API Email handling, Saas, Materialize,  React, XML, JSON",
+      text: "ReactJS, Redux, ContextAPI, HTML, CSS, NPM, BootStrap, MaterialUI, JQuery, AJAX, SEO, API, Email handling, Saas, Materialize,  React, XML, JSON",
     },
     {
       title: "Backend",
