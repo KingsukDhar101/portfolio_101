@@ -19,15 +19,19 @@ export const personal_data = {
   skills: [
     {
       title: "Frontend",
-      text: "ReactJS, Redux, ContextAPI, HTML, CSS, NPM, BootStrap, MaterialUI, JQuery, AJAX, SEO, API Email handling",
+      text: "ReactJS, Redux, ContextAPI, HTML, CSS, NPM, BootStrap, MaterialUI, JQuery, AJAX, SEO, API Email handling, Saas, Materialize,  React, XML, JSON",
     },
     {
       title: "Backend",
-      text: "NodeJS, ExpressJS, MySQL, MongoDB",
+      text: "Node, Express, SQL, PostgreSQL, MongoDB, Firebase",
     },
     {
       title: "Languages",
       text: "JavaScript, Java, C, C++",
+    },
+    {
+      title: "Problem Solving & Other conecpts",
+      text: "Data Structure and Algorithms, Object Oriented Programming (OOP)",
     },
   ],
   projects: [
