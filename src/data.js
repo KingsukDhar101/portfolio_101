@@ -120,16 +120,10 @@ export const personal_data = {
 };
 export const exp_data = [
   {
-    tag: "education",
-    date: "2012",
-    title: "Madhyamik / Secondary (10)",
-    text: "Jagadbandhu Institution",
-  },
-  {
-    tag: "education",
-    date: "2014",
-    title: "Higher Secondary (10+2)",
-    text: "Jagadbandhu Institution",
+    tag: "work",
+    date: "April, 2022 - present",
+    title: "Frontend Developer @EazyDiner Pvt. Ltd",
+    text: "Responsible for creating UI using ReactJS, Redux, Javascript, CSS, JQuery, handling data and API integration, SEO, AJAX, debugging, etc.",
   },
   {
     tag: "education",
@@ -138,9 +132,16 @@ export const exp_data = [
     text: "Meghnad Saha Institute of Technology",
   },
   {
-    tag: "work",
-    date: "April, 2022 - present",
-    title: "Frontend Developer @EazyDiner Pvt. Ltd",
-    text: "Responsible for creating UI using ReactJS, Redux, Javascript, CSS, JQuery, handling data and API integration, SEO, AJAX, debugging, etc.",
+    tag: "education",
+    date: "2014",
+    title: "Higher Secondary (10+2)",
+    text: "Jagadbandhu Institution",
+  },
+
+  {
+    tag: "education",
+    date: "2012",
+    title: "Madhyamik / Secondary (10)",
+    text: "Jagadbandhu Institution",
   },
 ];
