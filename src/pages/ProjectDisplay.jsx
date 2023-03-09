@@ -7,8 +7,8 @@ import "../styles/ProjectDisplay.css";
 
 const ProjectDisplay = () => {
   const { id } = useParams();
-  const project = personal_data?.projects[id];
-
+  const project = personal_data?.projects[id-1];
+console.log("id : ", id, project);
   return (
     <div className="project">
       <h1>{project?.title}</h1>
