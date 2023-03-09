@@ -3,7 +3,7 @@ import netflix_1 from "./assets/netflix_1.png";
 export const personal_data = {
   name: "Kingsuk Dhar",
   about:
-    "Software Engineer with knowledge in Full Stack Web Development (esp. MERN) and problem-solving using Data Structure and Algorithms. Enthusiastic towards learning new things (technology, finance, administration, etc.)",
+    "Software Engineer with knowledge in Full Stack Web Development (esp. MERN) and problem-solving using Data Structure and Algorithms. Enthusiastic towards learning new things, travelling, trekking.",
   gmail: "kingsuk.1997dhar2@gmail.com",
   linkedin_url: "https://www.linkedin.com/in/kingsukdhar/",
   github_url: "https://github.com/KingsukDhar101",
@@ -24,6 +24,136 @@ export const personal_data = {
     },
   ],
   projects: [
+    {
+      id: 1,
+      title: "Netflix Clone",
+      img: netflix_1,
+      deployed_url: "https://netflix-clone-kd1.netlify.app/",
+      github_link: "https://github.com/KingsukDhar101/netflix_clone_1",
+      tech_stack:
+        "React, Redux, Firebase, CSS, React Router, React Hook, TMDB api",
+      description: [
+        "Firebase authentication, Routing, Redux for state management",
+        "TMDB api for movie data.",
+      ],
+    },
+    {
+      id: 2,
+      title: "Netflix Clone",
+      img: netflix_1,
+      deployed_url: "https://netflix-clone-kd1.netlify.app/",
+      github_link: "https://github.com/KingsukDhar101/netflix_clone_1",
+      tech_stack:
+        "React, Redux, Firebase, CSS, React Router, React Hook, TMDB api",
+      description: [
+        "Firebase authentication, Routing, Redux for state management",
+        "TMDB api for movie data.",
+      ],
+    },
+    {
+      id: 1,
+      title: "Netflix Clone",
+      img: netflix_1,
+      deployed_url: "https://netflix-clone-kd1.netlify.app/",
+      github_link: "https://github.com/KingsukDhar101/netflix_clone_1",
+      tech_stack:
+        "React, Redux, Firebase, CSS, React Router, React Hook, TMDB api",
+      description: [
+        "Firebase authentication, Routing, Redux for state management",
+        "TMDB api for movie data.",
+      ],
+    },
+    {
+      id: 2,
+      title: "Netflix Clone",
+      img: netflix_1,
+      deployed_url: "https://netflix-clone-kd1.netlify.app/",
+      github_link: "https://github.com/KingsukDhar101/netflix_clone_1",
+      tech_stack:
+        "React, Redux, Firebase, CSS, React Router, React Hook, TMDB api",
+      description: [
+        "Firebase authentication, Routing, Redux for state management",
+        "TMDB api for movie data.",
+      ],
+    },
+    {
+      id: 1,
+      title: "Netflix Clone",
+      img: netflix_1,
+      deployed_url: "https://netflix-clone-kd1.netlify.app/",
+      github_link: "https://github.com/KingsukDhar101/netflix_clone_1",
+      tech_stack:
+        "React, Redux, Firebase, CSS, React Router, React Hook, TMDB api",
+      description: [
+        "Firebase authentication, Routing, Redux for state management",
+        "TMDB api for movie data.",
+      ],
+    },
+    {
+      id: 2,
+      title: "Netflix Clone",
+      img: netflix_1,
+      deployed_url: "https://netflix-clone-kd1.netlify.app/",
+      github_link: "https://github.com/KingsukDhar101/netflix_clone_1",
+      tech_stack:
+        "React, Redux, Firebase, CSS, React Router, React Hook, TMDB api",
+      description: [
+        "Firebase authentication, Routing, Redux for state management",
+        "TMDB api for movie data.",
+      ],
+    },
+    {
+      id: 1,
+      title: "Netflix Clone",
+      img: netflix_1,
+      deployed_url: "https://netflix-clone-kd1.netlify.app/",
+      github_link: "https://github.com/KingsukDhar101/netflix_clone_1",
+      tech_stack:
+        "React, Redux, Firebase, CSS, React Router, React Hook, TMDB api",
+      description: [
+        "Firebase authentication, Routing, Redux for state management",
+        "TMDB api for movie data.",
+      ],
+    },
+    {
+      id: 2,
+      title: "Netflix Clone",
+      img: netflix_1,
+      deployed_url: "https://netflix-clone-kd1.netlify.app/",
+      github_link: "https://github.com/KingsukDhar101/netflix_clone_1",
+      tech_stack:
+        "React, Redux, Firebase, CSS, React Router, React Hook, TMDB api",
+      description: [
+        "Firebase authentication, Routing, Redux for state management",
+        "TMDB api for movie data.",
+      ],
+    },
+    {
+      id: 1,
+      title: "Netflix Clone",
+      img: netflix_1,
+      deployed_url: "https://netflix-clone-kd1.netlify.app/",
+      github_link: "https://github.com/KingsukDhar101/netflix_clone_1",
+      tech_stack:
+        "React, Redux, Firebase, CSS, React Router, React Hook, TMDB api",
+      description: [
+        "Firebase authentication, Routing, Redux for state management",
+        "TMDB api for movie data.",
+      ],
+    },
+    {
+      id: 2,
+      title: "Netflix Clone",
+      img: netflix_1,
+      deployed_url: "https://netflix-clone-kd1.netlify.app/",
+      github_link: "https://github.com/KingsukDhar101/netflix_clone_1",
+      tech_stack:
+        "React, Redux, Firebase, CSS, React Router, React Hook, TMDB api",
+      description: [
+        "Firebase authentication, Routing, Redux for state management",
+        "TMDB api for movie data.",
+      ],
+    },
     {
       id: 1,
       title: "Netflix Clone",

@@ -9,6 +9,7 @@ import WorkIcon from "@mui/icons-material/Work";
 import { exp_data } from "../data";
 
 const Experience = () => {
+  // eslint - disable - next - line;
   const [expData, setExpData] = useState(exp_data);
 
   return (
@@ -21,10 +22,10 @@ const Experience = () => {
               className={`veritical-lineine-element--${item.tag}`}
               date={item.date}
               iconStyle={{
-                background: item.tag == "education" ? "#3e497a" : "#e9d35b",
+                background: item.tag === "education" ? "#3e497a" : "#e9d35b",
                 color: "#fff",
               }}
-              icon={item.tag == "education" ? <SchoolIcon /> : <WorkIcon />}
+              icon={item.tag === "education" ? <SchoolIcon /> : <WorkIcon />}
             >
               <h3>{item.title}</h3>
               <p>{item.text}</p>

@@ -1,7 +1,7 @@
 import React from "react";
 import { useParams } from "react-router-dom";
 import { personal_data } from "../data";
-import LinkedInIcon from "@mui/icons-material/LinkedIn";
+// import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import "../styles/ProjectDisplay.css";
 
@@ -28,7 +28,7 @@ const ProjectDisplay = () => {
         {project?.description?.map((desc, index) => (
           <span key={index}>
             {desc}
-            {index != project?.description?.length - 1 ? " - " : ""}
+            {index !== project?.description?.length - 1 ? " - " : ""}
           </span>
         ))}
       </p>
